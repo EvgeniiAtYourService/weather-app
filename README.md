@@ -1,4 +1,4 @@
-# weatherapp
+# Weather App
 Back-end
 
 https://radiant-tundra-32755.herokuapp.com/
